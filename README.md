@@ -1,4 +1,4 @@
-# 🎓 Attendance_Management_System_using_Face_Recognition  
+# 🎓Attendance_Management_System_using_Face_Recognition  
 > **Automating attendance with AI-powered face recognition using Python & OpenCV**
 
 <p align="center">
