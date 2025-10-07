@@ -1,4 +1,4 @@
-# 🎓 Attendance Management System using Face Recognition  
+# 🎓 Attendance_Management_System_using_Face_Recognition  
 > **Automating attendance with AI-powered face recognition using Python & OpenCV**
 
 <p align="center">
@@ -53,29 +53,28 @@ This project is designed for **schools, colleges, and organizations** that requi
 ---
 
 ## 🏗️ Project Architecture
-
+```
 Attendence_management_system_using_face_recognition/
 │
-├── attendance.py # GUI and attendance management
-├── automaticAttedance.py # Core face recognition and attendance logic
-├── takeImage.py # Capture student images
-├── trainImage.py # Train facial data using OpenCV
-├── show_attendance.py # Display attendance records
-├── takemanually.py # Manual attendance entry
+├── attendance.py                  # GUI and attendance management
+├── automaticAttedance.py          # Core face recognition and attendance logic
+├── takeImage.py                   # Capture student images
+├── trainImage.py                  # Train facial data using OpenCV
+├── show_attendance.py             # Display attendance records
+├── takemanually.py                # Manual attendance entry
 │
-├── StudentDetails/ # Stores student registration details
-├── TrainingImage/ # Raw captured images
-├── TrainingImageLabel/ # Encoded training data
-├── UI_Image/ # App icons and screenshots
+├── StudentDetails/                # Stores student registration details
+├── TrainingImage/                 # Raw captured images
+├── TrainingImageLabel/            # Encoded training data
+├── UI_Image/                      # App icons and screenshots
 │
-├── haarcascade_frontalface_default.xml # Pretrained face detection model
-├── AMS.ico # Application icon
-├── project_requirement.txt # Dependency file
-├── README.md # Documentation
-└── _config.yml # GitHub Pages config (optional)
+├── haarcascade_frontalface_default.xml  # Pretrained face detection model
+├── AMS.ico                        # Application icon
+├── project_requirement.txt        # Dependency file
+├── README.md                      # Documentation
+└── _config.yml                    # GitHub Pages config (optional)
 
-
----
+```
 
 ## 🧠 Tech Stack
 
@@ -101,3 +100,83 @@ D --> E[Mark Attendance in CSV]
 E --> F[View Attendance Records]
 
 ```
+
+## 🖥️ Screenshots
+ <img src="UI_Image/dashboard.png" width="600" alt="Dashboard Interface"/><br/>
+
+## 📊 Sample Dashboard Interface
+<img src="UI_Image/face_detection.png" width="600" alt="Face Detection"/><br/> 
+Real-time Face Detection and Attendance Marking
+
+## ⚙️ Installation
+
+1️⃣ Clone the Repository
+```
+git clone https://github.com/AdarshVL/Attendence_management_system_using_face_recognition.git
+cd Attendence_management_system_using_face_recognition
+```
+2️⃣ Install Dependencies
+```
+pip install -r project_requirement.txt
+```
+3️⃣ Run the Application
+```
+python automaticAttedance.py
+```
+## 📂 Modules Description
+
+| File                                  | Description                                    |
+| ------------------------------------- | ---------------------------------------------- |
+| `takeImage.py`                        | Capture student face images using webcam       |
+| `trainImage.py`                       | Train the recognition model                    |
+| `automaticAttedance.py`               | Detect and recognize faces to mark attendance  |
+| `attendance.py`                       | Main GUI-based attendance manager              |
+| `show_attendance.py`                  | View attendance in tabular format              |
+| `takemanually.py`                     | Add attendance manually when recognition fails |
+| `haarcascade_frontalface_default.xml` | Pretrained classifier for face detection       |
+
+## 📊 Sample Output
+| Name            | ID  | Date       | Time     |
+| --------------- | --- | ---------- | -------- |
+| Adarsh Lilhare  | 101 | 2025-10-07 | 09:15:24 |
+| Rishikesh Patil | 102 | 2025-10-07 | 09:16:10 |
+
+
+## 📁 Stored as CSV:
+Attendance_2025-10-07.csv
+
+## 🚀 Future Enhancements
+
+🔹 Integrate with MySQL or Firebase for centralized storage
+
+🔹 Build an Admin Dashboard (React + Flask) for data visualization
+
+🔹 Add QR Code verification as secondary authentication
+
+🔹 Implement Email notifications for daily reports
+
+🔹 Deploy on Cloud (AWS/GCP) for real-time scalability
+
+## 📚 References
+
+🔹 OpenCV Documentation
+
+🔹 Python Tkinter GUI Docs
+
+🔹 Face Detection with Haar Cascades
+
+🔹 Real Python: Face Recognition
+
+---
+👨‍💻 Author
+
+Adarsh Lilhare
+🎓 B.Tech in Artificial Intelligence & Data Science
+💼 AI | Data Science | Computer Vision Enthusiast
+🔗 [GitHub](https://github.com/AdarshVL)| [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
+
+---
+🏁 Conclusion
+
+The Attendance Management System using Face Recognition revolutionizes the traditional attendance process by merging AI, Computer Vision, and Automation.
+It’s a contactless, accurate, and scalable solution that enhances classroom or office productivity.
