@@ -170,16 +170,20 @@ Attendance_2025-10-07.csv
 🔹 Real Python: Face Recognition
 
 ---
-👨‍💻 Author
+## 👨‍💻 Author
 
-Adarsh Lilhare
+# Adarsh Lilhare 
+
 🎓 B.Tech in Artificial Intelligence & Data Science
+
 💼 AI | Data Science | Computer Vision Enthusiast
+
 🔗 [GitHub](https://github.com/AdarshVL) 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
 
 ---
-🏁 Conclusion
+## 🏁 Conclusion
 
 The Attendance Management System using Face Recognition revolutionizes the traditional attendance process by merging AI, Computer Vision, and Automation.
 It’s a contactless, accurate, and scalable solution that enhances classroom or office productivity.
