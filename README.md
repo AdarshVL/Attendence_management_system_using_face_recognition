@@ -38,6 +38,8 @@ It replaces manual attendance tracking with a **secure, contactless, and efficie
 
 This project is designed for **schools, colleges, and organizations** that require accurate attendance tracking while minimizing human intervention.
 
+🔁 [Working](https://github.com/AdarshVL/Attendence_management_system_using_face_recognition/blob/main/AICTE/README.md)
+
 ---
 
 ## ⚙️ Features
@@ -173,7 +175,8 @@ Attendance_2025-10-07.csv
 Adarsh Lilhare
 🎓 B.Tech in Artificial Intelligence & Data Science
 💼 AI | Data Science | Computer Vision Enthusiast
-🔗 [GitHub](https://github.com/AdarshVL)| [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
+🔗 [GitHub](https://github.com/AdarshVL) 
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
 
 ---
 🏁 Conclusion
