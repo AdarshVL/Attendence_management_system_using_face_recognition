@@ -145,7 +145,8 @@ python automaticAttedance.py
 
 
 ## 📁 Stored as CSV:
-Attendance_2025-10-07.csv
+ [Attendance](https://github.com/AdarshVL/Attendence_management_system_using_face_recognition/blob/main/AICTE/Attendance.xlsx) 
+
 
 ## 🚀 Future Enhancements
 
