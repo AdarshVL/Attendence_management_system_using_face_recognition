@@ -172,20 +172,28 @@ python automaticAttedance.py
 🔹 Real Python: Face Recognition
 
 ---
+## 🏁 Conclusion
+
+The Attendance Management System using Face Recognition revolutionizes the traditional attendance process by merging AI, Computer Vision, and Automation.
+It’s a contactless, accurate, and scalable solution that enhances classroom or office productivity.
+
+--- 
+
 ## 👨‍💻 Author
 
-# Adarsh Lilhare 
+---
+### Adarsh Lilhare 
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 
 💼 AI | Data Science | Computer Vision Enthusiast
 
-🔗 [GitHub](https://github.com/AdarshVL) 
+📧 [Email].(adarshlilhare@example.com)
+
+🐙 [GitHub](https://github.com/AdarshVL) 
+
+🌐 [Portfolio](https://adarshlilhare.dev)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
 
 ---
-## 🏁 Conclusion
-
-The Attendance Management System using Face Recognition revolutionizes the traditional attendance process by merging AI, Computer Vision, and Automation.
-It’s a contactless, accurate, and scalable solution that enhances classroom or office productivity.
