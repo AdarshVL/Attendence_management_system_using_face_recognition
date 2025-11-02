@@ -177,7 +177,7 @@ python automaticAttedance.py
 The Attendance Management System using Face Recognition revolutionizes the traditional attendance process by merging AI, Computer Vision, and Automation.
 It’s a contactless, accurate, and scalable solution that enhances classroom or office productivity.
 
---- 
+---
 
 ## 👨‍💻 Author
 
@@ -186,7 +186,7 @@ It’s a contactless, accurate, and scalable solution that enhances classroom or
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 
-💼 AI | Data Science | Computer Vision Enthusiast
+💼 AI & Data Science Student | 💻 Developer | 🌍 Open Source Contributor | 🚀 Computer Vision Enthusiast
 
 📧 [Email](adarshlilhare@example.com)
 
